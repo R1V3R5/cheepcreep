@@ -5,7 +5,7 @@ gemspec
 
 gem 'httparty'
 gem 'activerecord'
-gem 'sqlite3'
+gem 'mysql2'
 
 ## Uncomment the following if you want to use highline for User Input/Output
 # gem 'highline', require: 'highline/import'

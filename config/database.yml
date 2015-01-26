@@ -1,4 +1,4 @@
-adapter: sqlite3
-database: db/cheepcreep.db
+adapter: mysql2
+database: cheepcreep
 pool: 5
 timeout: 1000
